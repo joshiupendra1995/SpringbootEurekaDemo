@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.springboot.app</groupId>
-	<artifactId>springbootapp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>springbooteurekaapp</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>springbootapp</name>
